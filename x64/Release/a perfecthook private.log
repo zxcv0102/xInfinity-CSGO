@@ -1,0 +1,844 @@
+﻿D:\VisualCommunity17\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CaviarDreams.cpp
+  recvproxy.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+recvproxy.cpp(226): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+recvproxy.cpp(226): warning C4312: 'type cast': conversion from 'DWORD' to 'bool *' of greater size
+  Autowall.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  Chams.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  Configuration.cpp
+  DLLMain.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\Misc.h(89): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void (__cdecl *)(const char *,const char *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Misc.h(97): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+  EnginePrediction.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+EnginePrediction.cpp(14): warning C4312: 'type cast': conversion from 'DWORD' to 'int **' of greater size
+  ESP.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+ESP.cpp(321): warning C4551: function call missing argument list
+  Global.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  GrenadePrediction.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  Hooks.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\Misc.h(89): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void (__cdecl *)(const char *,const char *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Misc.h(97): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(23): warning C4311: 'reinterpret_cast': pointer truncation from 'CInput *' to 'uint32_t'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(23): warning C4312: 'type cast': conversion from 'uint32_t' to 'CInput::CVerifiedUserCmd **' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(55): error C2485: 'naked': unrecognized extended attribute
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(57): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(59): error C2065: 'PUSH': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(60): error C2146: syntax error: missing ';' before identifier 'EBP'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(59): error C2065: 'EBP': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(60): error C2146: syntax error: missing ';' before identifier 'MOV'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(60): error C2065: 'MOV': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(60): error C2065: 'EBP': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(60): error C2065: 'ESP': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(61): error C2146: syntax error: missing ';' before identifier 'PUSH'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(61): error C2065: 'PUSH': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(62): error C2146: syntax error: missing ';' before identifier 'EBX'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(61): error C2065: 'EBX': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(62): error C2146: syntax error: missing ';' before identifier 'LEA'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(62): error C2065: 'LEA': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(62): error C2146: syntax error: missing ';' before identifier 'ECX'
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(62): error C2065: 'ECX': undeclared identifier
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(62): error C3481: 'ESP': lambda capture variable not found
+c:\users\henni\desktop\perfecthookpaste-master\CreateMove.h(63): error C3260: 'identifier': skipping unexpected token(s) before lambda body
+c:\users\henni\desktop\perfecthookpaste-master\SkinChanger.h(8): error C2601: 'SkinChanger': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\Resolver.h(6): error C2601: 'GetEstimatedServerTickCount': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\Resolver.h(72): error C2601: 'ClampYaw': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\Resolver.h(80): error C2601: 'Resolver3': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\GloveChanger.h(4): error C2267: 'GetWearableCreateFn': static functions with block scope are illegal
+c:\users\henni\desktop\perfecthookpaste-master\GloveChanger.h(4): error C2601: 'GetWearableCreateFn': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\GloveChanger.h(13): error C2601: 'CL_CreateDLLEntity': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\GloveChanger.h(28): error C2601: 'isKnife': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\GloveChanger.h(57): error C2601: 'GloveChanger': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\FrameStageNotify.h(10): error C2601: 'hkFrameStageNotify': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\DrawModelExecute.h(7): error C2601: 'hkDrawModelExecute': local function definitions are illegal
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\ctime(9): error C2870: 'std': a namespace definition must appear either at file scope or immediately within another namespace definition
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(36): error C2039: 'string': is not a member of 'std'
+  D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\ctime(9): note: see declaration of 'std'
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(36): error C2061: syntax error: identifier 'string'
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(63): error C2601: 'CSGO_Armor': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(80): error C2951: template declarations are only permitted at global, namespace, or class scope
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(82): error C2951: template declarations are only permitted at global, namespace, or class scope
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(163): error C2601: 'ItemDefinitionIndexToString': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\ESP.h(170): error C2601: 'flGetDistance': local function definitions are illegal
+c:\users\henni\desktop\perfecthookpaste-master\Hitmarker.h(18): error C2039: 'exception': is not a member of 'std'
+  D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\ctime(9): note: see declaration of 'std'
+c:\users\henni\desktop\perfecthookpaste-master\Hitmarker.h(18): error C3861: 'exception': identifier not found
+c:\users\henni\desktop\perfecthookpaste-master\PaintTraverse.h(17): error C2601: 'hkPaintTraverse': local function definitions are illegal
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\setjmp.h(21): error C2598: linkage specification must be at global scope
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(69): error C2598: linkage specification must be at global scope
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(77): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(78): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(79): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(80): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(81): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(82): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(83): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(84): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(85): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(86): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(87): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(88): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(89): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(90): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(96): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(97): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(98): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(99): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(105): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(106): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(107): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(108): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(109): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(110): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(111): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(112): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(113): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(114): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(115): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(116): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(117): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(118): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(119): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(120): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(121): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(122): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(123): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(124): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(125): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(126): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(127): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(128): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(146): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(147): error C2624: 'hkCreateMove::__m128i': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(148): error C2624: 'hkCreateMove::__m128i': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(150): error C2624: 'hkCreateMove::__m128i': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(151): error C2624: 'hkCreateMove::__m128i': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(153): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(155): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(159): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(171): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(172): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(174): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(180): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(181): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(182): error C2624: 'hkCreateMove::__m128d': local classes cannot be used to declare 'extern' variables
+D:\VisualCommunity17\VC\Tools\MSVC\14.11.25503\include\emmintrin.h(182): fatal error C1003: error count exceeds 100; stopping compilation
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  Interfaces.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+Interfaces.cpp(31): warning C4312: 'type cast': conversion from 'DWORD' to 'IMoveHelper ***' of greater size
+Interfaces.cpp(34): warning C4312: 'type cast': conversion from 'DWORD' to 'CInput **' of greater size
+Interfaces.cpp(35): warning C4312: 'type cast': conversion from 'DWORD' to 'IViewRender **' of greater size
+Interfaces.cpp(36): warning C4312: 'type cast': conversion from 'DWORD' to 'C_CSPlayerResource ***' of greater size
+Interfaces.cpp(37): warning C4312: 'type cast': conversion from 'DWORD' to 'C_CSGameRules ***' of greater size
+Interfaces.cpp(39): warning C4312: 'type cast': conversion from 'DWORD' to 'IClientMode ***' of greater size
+Interfaces.cpp(40): warning C4312: 'type cast': conversion from 'DWORD' to 'CGlobalVarsBase ***' of greater size
+  LagComp.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  LegitBot.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+LegitBot.cpp(165): warning C4804: '>': unsafe use of type 'bool' in operation
+  MathFunctions.cpp
+  memesets.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  Misc.cpp
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\Misc.h(89): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void (__cdecl *)(const char *,const char *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Misc.h(97): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+  Generating Code...
+  Compiling...
+  NetVarManager.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+NetVarManager.cpp(52): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+  Renderer.cpp
+  Render.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  SpoofedConvar.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  tinyxml2.cpp
+  MiscFunctions.cpp
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(519): warning C4312: 'type cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(540): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(544): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(549): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(554): warning C4311: 'type cast': pointer truncation from 'CBaseViewModel *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(637): warning C4312: 'type cast': conversion from 'DWORD' to 'void (__cdecl *)(CBaseCombatWeapon *)' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(652): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(658): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4311: 'type cast': pointer truncation from 'CGloves *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(669): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4311: 'type cast': pointer truncation from 'IClientUnknown *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(839): warning C4312: 'type cast': conversion from 'DWORD' to 'ICollideable *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(929): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(962): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(966): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(970): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(975): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(980): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(989): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1104): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1108): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1123): warning C4312: 'type cast': conversion from 'DWORD' to 'IsPlayer_t' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1140): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4311: 'type cast': pointer truncation from 'C_BaseEntity *' to 'DWORD'
+c:\users\henni\desktop\perfecthookpaste-master\Entities.h(1141): warning C4312: 'type cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1279): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1397): warning C4312: 'type cast': conversion from 'int' to 'DWORD *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1399): warning C4312: 'type cast': conversion from 'int' to 'CInput::CUserCmd *' of greater size
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1696): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1697): error C2118: negative subscript
+c:\users\henni\desktop\perfecthookpaste-master\MiscClasses.h(1698): error C2118: negative subscript
+  Utilities.cpp
+Utilities.cpp(103): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+Utilities.cpp(128): warning C4312: 'type cast': conversion from 'DWORD' to 'HMODULE' of greater size
+Utilities.cpp(132): warning C4312: 'type cast': conversion from 'unsigned long' to 'BYTE *' of greater size
+Utilities.cpp(150): warning C4312: 'type cast': conversion from 'unsigned long' to 'PCHAR' of greater size
+Utilities.cpp(189): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+Utilities.cpp(218): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+  Generating Code...
